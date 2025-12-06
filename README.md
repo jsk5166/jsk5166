@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 안녕하세요, 금융공학 연구자 정세경입니다.
+**Jeonbuk National University, Financial Engineering Lab**
 
-<!--
-**jsk5166/jsk5166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+데이터 기반의 금융 모델링과 파생상품 가치 평가에 깊은 관심을 가지고 있습니다.
+현재 전북대학교 대학원 석사 과정(진학 예정)에서 재무 데이터 분석과 프로그래밍을 연구하고 있습니다.
 
-Here are some ideas to get you started:
+- 🔭 **Interest:** Financial Modeling, Derivatives Valuation, Risk Management
+- 🌱 **Currently Learning:** Advanced Python, Stochastic Calculus(Ito's Lemma), LaTeX Processing
+- 👯 **Goals:** 기존 모델이 설명하지 못하는 시장의 이례 현상(Anomalies) 분석 및 모델링
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-476141?style=flat&logo=latex&logoColor=white)
+
+---
+
+### 📚 Projects & Research
+
+### 📫 Contact
+- Email: jsk5166@naver.com
