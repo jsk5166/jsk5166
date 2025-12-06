@@ -1,8 +1,8 @@
-### 👋 안녕하세요, 금융공학 연구자 정세경입니다.
-**Jeonbuk National University, Financial Engineering Lab**
+### 안녕하세요, 전북대학교 경영학과 정세경입니다.
+**Jeonbuk National University**
 
 데이터 기반의 금융 모델링과 파생상품 가치 평가에 깊은 관심을 가지고 있습니다.
-현재 전북대학교 대학원 석사 과정(진학 예정)에서 재무 데이터 분석과 프로그래밍을 연구하고 있습니다.
+현재 재무 데이터 분석과 프로그래밍을 연구하고 있습니다.
 
 - 🔭 **Interest:** Financial Modeling, Derivatives Valuation, Risk Management
 - 🌱 **Currently Learning:** Advanced Python, Stochastic Calculus(Ito's Lemma), LaTeX Processing
